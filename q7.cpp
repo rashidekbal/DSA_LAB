@@ -1,3 +1,4 @@
+//WAP to evaluate a postfix expression using stacks.
 #include<iostream>
 #include<string>
 #include<stack>
