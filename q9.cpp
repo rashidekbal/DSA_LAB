@@ -1,5 +1,5 @@
 #include <iostream>
-#define SIZE 5 // Define the size of the queue
+#define SIZE 5 // Define the size of the queue.
 using namespace std;
 class Queue {
 private:
