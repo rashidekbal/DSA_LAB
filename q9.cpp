@@ -1,3 +1,4 @@
+//WAP to implement insertion and deletion operation in a queue using linear array
 #include <iostream>
 #define SIZE 5 // Define the size of the queue.
 using namespace std;

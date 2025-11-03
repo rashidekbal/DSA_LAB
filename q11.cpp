@@ -1,4 +1,4 @@
-//Q10.WAP a menu driven program to perform following insertion operation in a linked list :
+//Q11.WAP a menu driven program to perform following insertion operation in a linked list :
 //i. delete from beginning 
 //ii. delete from end
 //iii. delete after a given node
@@ -26,7 +26,7 @@ class LinkedList{
     void pushFront(int a){
         node *newNode=new node(a);
         if(head==NULL){
-            head=newNode;
+            head=newNode;+
             tail=newNode;
             return;
         }
