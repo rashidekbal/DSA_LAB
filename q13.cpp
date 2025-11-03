@@ -100,9 +100,9 @@ int main() {
             break;
         default:
             cout << "Invalid choice! Try again.\n";
+        }
         
     } while (choice != 4);
 
     return 0;
 }
-s
