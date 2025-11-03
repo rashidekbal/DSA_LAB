@@ -35,7 +35,7 @@ node *head=NULL;
      void printStack(){
         node *temp=head;
         if(head==NULL){
-            cout << "empty linked list"<<endl;
+            cout << "empty stack list"<<endl;
             return;
         }
         cout << "printing stack"<<endl;
